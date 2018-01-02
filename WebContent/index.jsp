@@ -33,7 +33,7 @@
 		<div class="App42PaaS_header_inner">
 			<div class="App42PaaS_header">
 				<div class="logo">
-					<a href="http://paas.shephertz.com"><img border="0"
+					<a href="http://www.hcl.com/"><img border="0"
 						alt="App42PaaS" src="/images/logo.png"></img></a>
 				</div>
 			</div>
@@ -99,23 +99,21 @@
 						<div class="reachusTitle">REACH US AT:</div>
 						<div class="reachuslable">Sales Enquiries:</div>
 						<div class="reachusLink">
-							<a href="mailto:sales@shephertz.com">sales@shephertz.com</a>
+							<a href="mailto:sales@hcl.com">sales@hcl.com</a>
 						</div>
 						<div class="reachuslable">Feedback:</div>
 						<div class="reachusLink">
-							<a href="mailto:feedback@shephertz.com">feedback@shephertz.com</a>
+							<a href="mailto:feedback@hcl.com">feedback@hcl.com</a>
 						</div>
 						<div class="reachuslable">Customer Support:</div>
 						<div class="reachusLink">
-							<a href="mailto:support@shephertz.com">support@shephertz.com</a>
+							<a href="mailto:support@hcl.com">support@hcl.com</a>
 						</div>
 					</div>
 				</div>
 
 				<div class="reachus_wrapper_vcard">
-					<div class="vcard_txt">ShepHertz Technologies Pvt. Ltd. Spaze
-						I-Tech Park, Tower-A, 11th floor - 1128, sector-49, Sohna Road,
-						Gurgaon - 122001 INDIA</div>
+					<div class="vcard_txt">HCL Technologies, India</div>
 				</div>
 			</div>
 		</div>
