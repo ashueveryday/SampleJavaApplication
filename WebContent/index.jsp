@@ -34,7 +34,7 @@
 			<div class="App42PaaS_header">
 				<div class="logo">
 					<a href="http://www.hcl.com/"><img border="0"
-						alt="App42PaaS" src="/images/logo.png"></img></a>
+						alt="HCL" src="/images/logo.png"></img></a>
 				</div>
 			</div>
 		</div>
