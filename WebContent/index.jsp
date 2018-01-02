@@ -81,20 +81,15 @@
 						</fieldset>
 						<div class="form-button"
 							style="margin-left: 100px; margin-right: 10px;">
-							<input id="SubmitButton" class="submit_btn" type="image" border="0"
-								name="submit" alt="Submit" src="/images/submit_btn.png"></input>
+							<input id="SubmitButton" class="submit_btn" type="button" border="0"
+								name="submit" alt="Submit"</input>
 						</div>
-						<div class="form-button">
-							<input id="Submit" class="clear_btn" type="image" border="0"
-								name="clear" alt="clear" src="/images/clear_btn.png">
-						</div>
+						
 					</form>
 				</div>
 
 				<div class="reachus_wrapper">
-					<div class="reach_icon">
-						<img border="0" alt="REACH US AT" src="/images/reach_icon.png"></img>
-					</div>
+					
 					<div class="reach_txt">
 						<div class="reachusTitle">REACH US AT:</div>
 						<div class="reachuslable">Sales Enquiries:</div>
