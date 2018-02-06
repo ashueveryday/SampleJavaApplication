@@ -49,10 +49,10 @@
 						<fieldset>
 							<legend>Personal Particular</legend>
 							<div class="contactForm_tr">
-								<div class="contactForm_td1">Name:</div>
+								<div class="contactForm_td1">UserName:</div>
 								<div class="contactForm_tdMiddle">:</div>
 								<div class="contactForm_td2">
-									<input name="Username" type="text" class="Personal-input"
+									<input name="name" type="text" class="Personal-input"
 										id="contactPerson" value="">
 								</div>
 								<div class="contactForm_td2"
@@ -72,7 +72,7 @@
 							</div>
 						</fieldset>
 						<fieldset>
-							<legend>What do you like about this Page :</legend>
+							<legend>What do you like about NOVARTIS :</legend>
 							<div class="massage-box">
 								<textarea name="description" cols="30" rows="5" id="description"
 									class="massage-textFild">Enter your instruction here...</textarea>
