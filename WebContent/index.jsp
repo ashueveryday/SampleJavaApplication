@@ -52,7 +52,7 @@
 								<div class="contactForm_td1">Name:</div>
 								<div class="contactForm_tdMiddle">:</div>
 								<div class="contactForm_td2">
-									<input name="name" type="text" class="Personal-input"
+									<input name="Username" type="text" class="Personal-input"
 										id="contactPerson" value="">
 								</div>
 								<div class="contactForm_td2"
@@ -68,7 +68,7 @@
 								</div>
 								<div class="contactForm_td2"
 									style="color: red; padding-left: 90px; display: none;"
-									id="emailErr">Email is a  mandatory</div>
+									id="emailErr">Enter Your Email</div>
 							</div>
 						</fieldset>
 						<fieldset>
