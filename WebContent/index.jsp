@@ -90,6 +90,10 @@
 				<div class="reachus_wrapper">
 					
 					<div class="reach_txt">
+						<br></br>
+					<br></br>
+				<br></br><br></br><br></br>
+	<br></br>
 						<div class="reachusTitle">REACH US AT:</div>
 						<div class="reachuslable">Sales Enquiries:</div>
 						<div class="reachusLink">
