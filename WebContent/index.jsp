@@ -98,7 +98,7 @@
 						<div class="reachusLink">
 							<a href="mailto:sales@hcl.com">sales@hcl.com</a>
 						</div>
-						<div class="reachuslable">Feedback:</div>
+						<div class="reachuslable">Feedback::</div>
 						<div class="reachusLink">
 							<a href="mailto:feedback@hcl.com">feedback@hcl.com</a>
 						</div>
