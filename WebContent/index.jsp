@@ -70,6 +70,19 @@
 									style="color: red; padding-left: 90px; display: none;"
 									id="emailErr">Enter Your Email</div>
 							</div>
+  <!-------------------------------------------------------------Put Code for Domain-------------------------------------------------------------------->
+							<div class="contactForm_tr">
+								<div class="contactForm_td1">Domain</div>
+								<div class="contactForm_tdMiddle">:</div>
+								<div class="contactForm_td2">
+									<input name="email" type="text" id="email"
+										class="Personal-input" maxlength="30">
+								</div>
+								<div class="contactForm_td2"
+									style="color: red; padding-left: 90px; display: none;"
+									id="emailErr">Enter Your Domain</div>
+							</div>
+  <!--------------------------------------------------------------------------------------------------------------------------------->
 						</fieldset>
 						<fieldset>
 							<legend>What do you like about NOVARTIS :</legend>
