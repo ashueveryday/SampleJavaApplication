@@ -70,7 +70,7 @@
 									style="color: red; padding-left: 90px; display: none;"
 									id="emailErr">Enter Your Email</div>
 							</div>
-  <!-------------------------------------------------------------Put Code for Department--------------------------------------------------------------------
+  <!-------------------------------------------------------------Put Code for Department-------------------------------------------------------------------->
 							<div class="contactForm_tr">
 								<div class="contactForm_td1">Department</div>
 								<div class="contactForm_tdMiddle">:</div>
@@ -82,7 +82,7 @@
 									style="color: red; padding-left: 90px; display: none;"
 									id="emailErr">Enter Your Department</div>
 							</div>
-  --------------------------------------------------------------------------------------------------------------------------------->
+  <!--------------------------------------------------------------------------------------------------------------------------------->
 						</fieldset>
 						<fieldset>
 							<legend>What do you like about NOVARTIS :</legend>
