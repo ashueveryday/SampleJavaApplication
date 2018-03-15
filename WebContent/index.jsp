@@ -63,12 +63,12 @@
 								<div class="contactForm_td1">Email</div>
 								<div class="contactForm_tdMiddle">:</div>
 								<div class="contactForm_td2">
-									<input name="email" type="text" id="email"
+									<input name="email id HCL" type="text" id="email"
 										class="Personal-input" maxlength="30">
 								</div>
 								<div class="contactForm_td2"
 									style="color: red; padding-left: 90px; display: none;"
-									id="emailErr">Enter Your Email</div>
+									id="emailErr">Enter Your HCL Email ID</div>
 							</div>
   <!-------------------------------------------------------------Put Code for Department-------------------------------------------------------------------->
 							<div class="contactForm_tr">
@@ -85,7 +85,7 @@
   <!--------------------------------------------------------------------------------------------------------------------------------->
 						</fieldset>
 						<fieldset>
-							<legend>What do you like about NOVARTIS :</legend>
+							<legend>What do you like about HCL :</legend>
 							<div class="massage-box">
 								<textarea name="description" cols="30" rows="5" id="description"
 									class="massage-textFild">Enter your instruction here...</textarea>
