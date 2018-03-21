@@ -42,7 +42,7 @@
 	<div class="App42PaaS_body_wrapper">
 		<div class="App42PaaS_body">
 			<div class="App42PaaS_body_inner">
-				<div class="contactPage_title">User Input Form</div>
+				<div class="contactPage_title">CODESTREAM FORM</div>
 
 				<div class="form_wrapper">
 					<form method="post" action="save">
@@ -85,10 +85,10 @@
   <!--------------------------------------------------------------------------------------------------------------------------------->
 						</fieldset>
 						<fieldset>
-							<legend>What do you like about HCL :</legend>
+							<legend>What do you like about this demo :</legend>
 							<div class="massage-box">
 								<textarea name="description" cols="30" rows="5" id="description"
-									class="massage-textFild">Enter your instruction here...</textarea>
+									class="massage-textFild">Enter your comments here...</textarea>
 							</div>
 						</fieldset>
 						<div class="form-button"
