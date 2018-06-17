@@ -42,7 +42,7 @@
 	<div class="App42PaaS_body_wrapper">
 		<div class="App42PaaS_body">
 			<div class="App42PaaS_body_inner">
-				<div class="contactPage_title">CLIENT DEMO FORM</div>
+				<div class="contactPage_title">HCL DEMO FORM</div>
 
 				<div class="form_wrapper">
 					<form method="post" action="save">
