@@ -42,14 +42,14 @@
 	<div class="App42PaaS_body_wrapper">
 		<div class="App42PaaS_body">
 			<div class="App42PaaS_body_inner">
-				<div class="contactPage_title">HCL DEMO FORM</div>
+				<div class="contactPage_title">JUST A FORM</div>
 
 				<div class="form_wrapper">
 					<form method="post" action="save">
 						<fieldset>
 							<legend>Personal Particular</legend>
 							<div class="contactForm_tr">
-								<div class="contactForm_td1">UserName:</div>
+								<div class="contactForm_td1">NAAM:</div>
 								<div class="contactForm_tdMiddle">:</div>
 								<div class="contactForm_td2">
 									<input name="name" type="text" class="Personal-input"
@@ -68,7 +68,7 @@
 								</div>
 								<div class="contactForm_td2"
 									style="color: red; padding-left: 90px; display: none;"
-									id="emailErr">Enter Your HCL Email ID</div>
+									id="emailErr">Enter Your personal Email ID</div>
 							</div>
   <!-------------------------------------------------------------Put Code for Department-------------------------------------------------------------------->
 							<div class="contactForm_tr">
