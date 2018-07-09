@@ -10,6 +10,6 @@
 <script type="text/javascript" src="js/jquery-1.6.4.js"></script>
 </head>
 <body>
-	<img src="images/banner.png" />
+	<img src="images/novartis.png" />
 </body>
 </html>
