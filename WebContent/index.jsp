@@ -10,6 +10,10 @@
 <script type="text/javascript" src="js/jquery-1.6.4.js"></script>
 </head>
 <body>
+<<<<<<< HEAD
 	<img src="images/Dryice_img.png" />
+=======
+	<img src="images/change.png" />
+>>>>>>> Rohan
 </body>
 </html>
