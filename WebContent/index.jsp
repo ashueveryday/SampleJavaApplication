@@ -10,6 +10,5 @@
 <script type="text/javascript" src="js/jquery-1.6.4.js"></script>
 </head>
 <body>
-<img src="images/Dryice.png" />
-</body>
+<img src="images/Dryice.png" /></body>
 </html>
