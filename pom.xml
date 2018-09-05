@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>MY-SQL-Application</groupId>
   <artifactId>MY-SQL-Application</artifactId>
-  <version>SNAPSHOT-{v}</version>
+  <version>SNAPSHOT-${v}</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
