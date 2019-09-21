@@ -10,4 +10,4 @@
 <script type="text/javascript" src="js/jquery-1.6.4.js"></script>
 </head>
 <body>
-<img src="images/ING_image2.png" /></body></html>
+<img src="images/Dryice_image.png" /></body></html>
